@@ -20,6 +20,7 @@ isp1507-ax (nrf52832), icm42688 or compatible, mmc5983ma
 * No 0201 parts
 * Removed onboard charger
 * LED is brighter (sink instead of source)
+* IMU is incorrectly wired
 
 pcb|3d
 --|--
@@ -34,6 +35,8 @@ pcb before reflow|pcb with battery|tracker and case (![slimenrf_2.stl](../../blo
 Revision 2
 
 icm42688 or compatible, mmc5983ma
+
+* IMU is incorrectly wired
 
 pcb|3d
 --|--
